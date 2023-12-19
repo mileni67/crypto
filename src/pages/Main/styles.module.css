@@ -1,0 +1,10 @@
+.main {
+    display: flex;
+    width: 100%;
+    padding: 10px;
+    background-color: rgb(180, 181, 181);
+    min-height: 100vh;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+}
